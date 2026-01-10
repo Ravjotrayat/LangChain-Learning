@@ -7,3 +7,4 @@ llm = OpenAI(model_name="3.5-turbo")
 
 result = llm.invoke("What is the capital of France?")
 print(result)
+
